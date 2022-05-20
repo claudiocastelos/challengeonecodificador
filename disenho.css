@@ -1,0 +1,116 @@
+.textoEncriptado{
+
+
+    height: 944px;
+width: 400px;
+left: 1000px;
+top: 40px;
+border-radius: 32px;
+position: absolute;
+width: 400px;
+height: 944px;
+left: 1000px;
+top: 40px;
+
+/* White */
+
+background: #FFFFFF;
+/* shadow */
+
+box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+border-radius: 32px;
+
+}
+
+.textoOriginal{
+
+
+    height: 288 px;
+width: 680px;
+left: 240px;
+top: 168px;
+border-radius: nullpx;
+position: absolute;
+width: 680px;
+height: 288px;
+left: 240px;
+top: 168px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+/* or 48px */
+
+
+color: #0A3871;
+
+}
+
+body{
+
+    background: #E5E5E5;
+}
+
+h1{
+
+    position: absolute;
+    left: 25%;
+    top: 10%;
+}
+
+button{
+
+    Color: Dark blue;
+State: Normal;
+height: 67px;
+width: 328px;
+left: 0px;
+top: 0px;
+border-radius: 24px;
+padding: 24px;
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 24px;
+gap: 8px;
+color: white;
+
+width: 328px;
+height: 67px;
+
+/* Dark blue/dark-blue-300 */
+
+background: #0A3871;
+border-radius: 24px;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.botonencriptar{
+
+    position: absolute;
+    top: 90%;
+
+}
+
+.botondesencriptar{
+
+    position: absolute;
+    top: 90%;
+    left: 25%;
+
+}
+
+h6{
+
+    position: absolute;
+    top: 85%;
+
+
+}
