@@ -1,7 +1,6 @@
 .textoEncriptado{
 
-
-    height: 944px;
+height: 944px;
 width: 400px;
 left: 1000px;
 top: 40px;
@@ -18,7 +17,7 @@ background: #FFFFFF;
 /* shadow */
 
 box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
-border-radius: 32px;
+border-radius: 0px;
 
 }
 
@@ -90,6 +89,14 @@ border-radius: 24px;
 flex: none;
 order: 0;
 flex-grow: 0;
+
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+
 }
 
 .botonencriptar{
